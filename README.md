@@ -1,6 +1,6 @@
 # Hi there, I'm Sadhik Kanala 👋
 
-## 🚀 DevOps Engineer 
+##  DevOps Engineer 
 
 I'm a passionate **DevOps Engineer** with **4 years of experience** at **Tata Consultancy Services (TCS)**, specializing in cloud infrastructure, CI/CD automation, containerization, and platform reliability.
 
@@ -111,7 +111,7 @@ Problem Management
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 📧 Email: [sadhikkanala@gmail.com](mailto:sadhikkanala@gmail.com)
 
@@ -120,7 +120,7 @@ Problem Management
 
 ---
 
-### 💡 Motto
+### Motto
 
 "Automate Everything. Deploy with Confidence. Scale with Reliability."
 
